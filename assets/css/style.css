@@ -1,0 +1,14 @@
+.carta {
+    width: 20%;
+    padding: 20px;
+    margin-bottom: 20px;
+    margin-left: -75px
+};
+
+#jugador-cartas, #computadora-cartas {
+    height: 200px;
+}
+
+#jugador-cartas, #computadora-cartas {
+height: 300px;
+}
